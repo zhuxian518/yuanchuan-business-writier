@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project specific
+.codebuddy/
+# If you want to keep some parts of .codebuddy, you can use ! (e.g., !.codebuddy/skills/)
+# But usually .codebuddy folder contains local dev data.
